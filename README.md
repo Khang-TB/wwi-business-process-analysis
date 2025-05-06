@@ -2,7 +2,7 @@
 
 End‑to‑end analytics project on Microsoft’s **Wide World Importers** sample database.  
 It reverse‑engineers WWI’s purchasing, sales, and warehouse workflows, surfaces key
-revenue & cost drivers, and wraps the insights in Power BI dashboards and a formal business report.
+revenue & cost drivers, and wraps the insights in a formal business report.
 
 ---
 
